@@ -59,6 +59,8 @@ author:
   name   : "Carlo Maria Negri"
   avatar : "/assets/images/carlo.jpeg"
   bio    : "Hi! My name is Carlo, I'm a 29 years-old computer engineer working in cybersecurity field."
+  location: "Turin, IT"
+  email: "carlomngr@gmail.com"
   links:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
